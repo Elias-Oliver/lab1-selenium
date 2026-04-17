@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: test2.LoginJUnitTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.642 s -- in test2.LoginJUnitTest
